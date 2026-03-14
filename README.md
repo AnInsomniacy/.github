@@ -1,7 +1,7 @@
 # .github
 
-[@AnInsomniacy](https://github.com/AnInsomniacy) 的全局默认配置仓库。
+Default community health files for [@AnInsomniacy](https://github.com/AnInsomniacy).
 
-| 文件 | 用途 |
+| File | Purpose |
 |---|---|
-| `FUNDING.yml` | 所有仓库的 💗 Sponsor 按钮 |
+| `FUNDING.yml` | 💗 Sponsor button across all repositories |
